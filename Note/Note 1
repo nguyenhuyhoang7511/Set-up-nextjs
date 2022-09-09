@@ -1,0 +1,7 @@
+<!-- I. File system Routing trong Next JS
+    - Khi một file được thêm vào thư mục /pages thì nó sẽ tự động sinh ra một route
+
+    - Gồm có 3 loại routes
+        1. Index routes :
+        2. Nested routes
+        3. Dynamic routes => [id].js : product detail page -->
